@@ -1,0 +1,2 @@
+* reference
+- coco_text from [[https://github.com/andreasveit/coco-text][COCO-Text API]]
