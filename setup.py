@@ -10,6 +10,7 @@ with open('{}/version.py'.format(package_name)) as version_file:
 
 requirements = [
     'PyYaml',
+    "imgaug",
     "pyconfigmanager",
 ]
 dependency_links = [
